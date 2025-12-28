@@ -1,4 +1,4 @@
-> [!Warning]  
+> [!CAUTION]  
 > Everything I publish on this profile and outside of it is a demonstration of technology for informational purposes only, and is not intended to violate the laws of your region, country, or the world. Any actions you take are done at your own risk.
 
 
